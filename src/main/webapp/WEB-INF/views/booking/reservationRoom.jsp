@@ -216,6 +216,7 @@
 
 <!-- Footer Section Begin -->
 <c:import url="../temp/footer.jsp"></c:import>
+    <c:import url="../temp/js.jsp"></c:import>
 <!-- Footer Section End -->
 
 <script src="/calendar/js/jquery-3.3.1.min.js"></script>
